@@ -4,8 +4,7 @@ Projetos desenvolvidos durante atividades acadêmicas utilizando MySQL.
 
 ## Projetos
 
-- PetSaude
-- Escola
+- Banco contatos
 
 ## Conceitos utilizados
 
