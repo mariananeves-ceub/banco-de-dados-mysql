@@ -1,0 +1,10 @@
+INSERT INTO tabParentesco (idParentesco, descParentesco) VALUES (1, 'Cônjuge');
+INSERT INTO tabParentesco (idParentesco, descParentesco) VALUES (2, 'Companheiro(a)');
+INSERT INTO tabParentesco (idParentesco, descParentesco) VALUES (3, 'Filho(a) ou enteado(a)');
+INSERT INTO tabParentesco (idParentesco, descParentesco) VALUES (4, 'Irmão(ã), neto(a) ou bisneto(a)');
+INSERT INTO tabParentesco (idParentesco, descParentesco) VALUES (5, 'Irmão(ã), neto(a) ou bisneto(a) guarda judicial');
+INSERT INTO tabParentesco (idParentesco, descParentesco) VALUES (6, 'Pais, avós e bisavós');
+INSERT INTO tabParentesco (idParentesco, descParentesco) VALUES (7, 'Menor pobre do qual detenha a guarda judicial');
+INSERT INTO tabParentesco (idParentesco, descParentesco) VALUES (8, 'A pessoa absolutamente incapaz');
+INSERT INTO tabParentesco (idParentesco, descParentesco) VALUES (9, 'Ex-cônjuge');
+INSERT INTO tabParentesco (idParentesco, descParentesco) VALUES (10, 'Agregado/Outros');
